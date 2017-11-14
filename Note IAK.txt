@@ -1,0 +1,8 @@
+- ANIMATION
+
+fromAlpha & toAlpha : merupakan jarak penambahan warna transisi dengan tipe dadta double.
+duration : merupakan waktu transisi dengan 1000 = 1 detik.
+
+- Perbedaan gravity dengan layout gravity :
+gravity : untuk mengatur view yang berada di dalam view tersebut.
+layout gravity : untuk mengatur view di dalam parentnya.
